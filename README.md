@@ -4,11 +4,7 @@
   
 
 ### *I am Ibrahim Nagdawala, 💻Web Developer🔨 Building digital experiences with code 🚀Always learning & improving my skills🤓*  
-  
-
-<div align="right">
-<img src="https://i.ibb.co/60brvDY/giphy.gif" align="right" height="180" width="200" />
-</div>  
+   
   
 
 - 🔭 I’m currently working on Deep Learning  
@@ -24,7 +20,9 @@
   
 
 <br/>  
-
+<div align="right">
+<img src="https://i.ibb.co/60brvDY/giphy.gif" align="center" height="180" width="200" />
+</div> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
