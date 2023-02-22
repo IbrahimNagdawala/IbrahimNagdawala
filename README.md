@@ -111,7 +111,7 @@
 
 <br/>  
 <div align="center">
-<img src="https://github.com/IbrahimNagdawala/IbrahimNagdawala/blob/main/github-user-contribution.svg" />
+<img src="https://github.com/IbrahimNagdawala/IbrahimNagdawala/blob/main/1.svg" />
 </div>  
 
 ----
