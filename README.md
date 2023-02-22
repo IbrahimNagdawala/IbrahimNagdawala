@@ -1,6 +1,5 @@
 <div align="center">
-  <iframe src="https://drive.google.com/file/d/1KRN0SPYANCq_uksi-kiJ09GQqtOm_vBg/preview" width="640" height="480" allow="autoplay"></iframe>
-<!-- <img src="https://i.ibb.co/zZ2TbB7/intro.gif" align="center" style="width: 100%" /> -->
+<img src="/intro.gif" align="center" style="width: 100%" />
 </div>  
   
 
